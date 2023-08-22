@@ -28,6 +28,7 @@
 header{
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     padding: 20px;
+    min-width: 6.4in;
 }
 header h1{
     color: white;
@@ -159,6 +160,7 @@ footer{
     font-weight: bold;
     margin-top: 40px;
     padding: 10px;
+    min-width: 6.4in;
 }
 footer a{
     color: var(--cor2);
